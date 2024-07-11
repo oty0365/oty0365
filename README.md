@@ -1,5 +1,10 @@
-## Hi there 👋
-![oty0365's GitHub stats](https://github-readme-stats.vercel.app/api?username=oty0365&show_icons=true&theme=radical)
+## 안녕하세요 게임개발 공부중인 사람입니다.
+## 작업테이블
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oty0365&layout=compact)
+## 스테이터스
+![oty0365's GitHub stats](https://github-readme-stats.vercel.app/api?username=oty0365&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## 기술스택
+<img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFF" />
 <!--
 **oty0365/oty0365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
