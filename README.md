@@ -1,4 +1,4 @@
-## 안녕하세요 오찬영입니다.
+## 열린 결말의 개발자 오찬영입니다.
 ## 작업테이블
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oty0365&layout=compact)
 ## 스테이터스
