@@ -19,23 +19,8 @@
 <br>
 
 ### 📊 System Analysis
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oty0365&layout=compact&bg_color=080810&title_color=4fffb0&text_color=e8e8f0&icon_color=4fffb0&hide_border=true&langs_count=6" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=oty0365&show_icons=true&bg_color=080810&title_color=4fffb0&text_color=e8e8f0&icon_color=4fffb0&hide_border=true&count_private=true" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=oty0365&theme=darkhub&no-bg=true&column=7&margin-w=15&detail=true" />
-      </td>
-    </tr>
-  </table>
-</div>
+[![oty0365's GitHub stats](https://github-readme-stats.vercel.app/api?username=oty0365)](https://github.com/oty0365/github-readme-stats)
+
 
 <br>
 
