@@ -17,11 +17,6 @@
 
 <br>
 
-### 📊 System Analysis
-[![oty0365's GitHub stats](https://vercel.app)](https://github.com)
-
-<br>
-
 ### 🛰️ Connectivity
 <a href="mailto:oty0365@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-080810?style=flat-square&logo=gmail&logoColor=4fffb0&border=4fffb0" />
